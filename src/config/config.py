@@ -1,0 +1,1 @@
+font_config = {"GeminiFont":r"E:\reborn\frontend_study\flet_proj\demo_proj\src\assets\Open_Sans\OpenSans-Italic-VariableFont_wdth,wght.ttf"}
